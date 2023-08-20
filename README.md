@@ -20,6 +20,7 @@ Format(Body,JSON): <BR>
 ---
 
 ### GET /api/inbox
-http://hostname:8080/api/inbox?receiversUsername=nameOfReceiver&page=0&size=messagesize <BR>
 
+Format(Param: (Key, Value)): <BR>
+http://hostname:8080/api/inbox?receiversUsername=nameOfReceiver&page=0&size=messagesize <BR>
 
